@@ -4,11 +4,11 @@ order	platform	destination	time	status	color	blink
 3						
 4						
 5						
-6						
+6						testing testing read all about it
 7						
 8						
-9		sometimes im  unsure	 what	to say.		
-10			 so	i  say:	r	
+9		
+10			
 11						
 12						
 13						
